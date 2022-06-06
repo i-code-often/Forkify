@@ -1,0 +1,4 @@
+src/js/config.js
+node_modules
+.parcel-cache
+dist
