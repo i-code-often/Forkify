@@ -13,4 +13,4 @@ Fork the project and run `npm install` to install dependencies and then run `npm
 
 ## Screenshots
 
-![Search Image](https://user-images.githubusercontent.com/106681281/172111203-54d41986-bc0e-459a-984e-505f84749c64.png) ![Recipe Image](https://user-images.githubusercontent.com/106681281/172111251-aabf7c1a-fe27-4d01-b6bf-0cbf762bd132.png)
+![Search Image](https://user-images.githubusercontent.com/106681281/172111203-54d41986-bc0e-459a-984e-505f84749c64.png) ![Recipe Image](https://user-images.githubusercontent.com/106681281/172111570-1e41d64d-2a89-4ea1-be89-d9c37366144b.png)
